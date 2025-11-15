@@ -81,3 +81,157 @@ The ProDev Backend Engineering program was more than a course — it was a trans
 
 ---
 
+# ProDev Frontend Engineering Program
+
+## Overview
+
+The **ProDev Frontend Engineering Program** is an intensive, industry-aligned 4-month training designed to transform learners into highly skilled frontend engineers capable of building world-class web and mobile applications. The program focuses on modern frontend tools, UI/UX best practices, high-performance interfaces, and real-world project execution.
+
+Learners gain hands-on experience developing responsive, interactive, and scalable user interfaces across web and mobile platforms using cutting-edge frameworks and technologies. Through expert mentorship, practical challenges, and portfolio-driven learning, participants graduate with the skills needed to excel in modern frontend engineering roles.
+
+---
+
+## 🎯 Programme Objectives
+
+### Build Advanced Frontend Skills
+
+Master core technologies for web and mobile development, including TypeScript, React, Expo/React Native, TailwindCSS, and Next.js.
+
+### Gain Job-Ready Competence
+
+Work on milestone-based projects that simulate real-world engineering tasks—covering UI implementation, API integration, performance optimization, and frontend architecture.
+
+### Prepare for Senior Roles
+
+Develop system design thinking, modular component design approaches, optimization strategies, and cross-platform development capabilities.
+
+### Expand Career Opportunities
+
+Graduate with a polished technical portfolio and hands-on experience that’s directly applicable to roles such as Frontend Engineer, React/Next.js Developer, Mobile Developer, or Full-Stack Engineer.
+
+---
+
+## 📚 Major Learnings
+
+## 🔧 Key Technologies Covered
+
+### **Web Development**
+
+- **React** – Component-based UI development
+- **Next.js** – Full-stack React framework with SSR, ISR & routing
+- **TailwindCSS** – Utility-first CSS framework for rapid UI building
+- **TypeScript** – Type-safe JavaScript for scalable applications
+- **GraphQL** – Modern API query language for efficient data fetching
+- **API Integration** – REST & GraphQL client-side integration
+
+### **Mobile Development**
+
+- **React Native** – Cross-platform mobile development
+- **Expo** – Faster mobile development with excellent tooling
+- **NativeWind** – Tailwind-style styling for React Native
+- **Expo Router** – File-based routing for mobile apps
+
+### **Progressive Web Apps (PWA)**
+
+- Service Workers
+- Offline support
+- App manifest & installation
+- Performance best practices
+
+---
+
+## 💡 Core Frontend Concepts
+
+### **Component Design & Architecture**
+
+- Reusable components
+- State management (Context API, custom hooks)
+- UI state vs. server state
+
+### **System Design for Frontend**
+
+- Designing scalable frontend architectures
+- Modular design patterns
+- Performance optimization (lazy loading, memoization, bundling)
+
+### **API Consumption & Data Handling**
+
+- Fetching, caching, and synchronizing remote data
+- Error handling & retries
+- Pagination and infinite scrolling patterns
+
+### **Responsive & Accessible UI**
+
+- Mobile-first design
+- ARIA attributes & accessibility checks
+- Cross-browser compatibility
+
+### **Version Control & CI/CD**
+
+- Git best practices
+- Frontend build pipelines
+- Deployment workflows (Vercel, Netlify, Expo Cloud)
+
+---
+
+## 🚧 Challenges Faced & Solutions Implemented
+
+### **1. Adapting to Multiple New Technologies**
+
+Switching between React, Next.js, TypeScript, and mobile development created a steep learning curve.  
+**Solution:**  
+Structured weekly goals, consistent documentation, and incremental building helped bridge the knowledge gap.
+
+### **2. API Integration & State Synchronization**
+
+Ensuring smooth, error-free API communication across web and mobile platforms.  
+**Solution:**  
+Used Axios, React Query, and GraphQL best practices to manage server state efficiently.
+
+### **3. Styling Consistency Across Projects**
+
+Different projects required different styling approaches (Tailwind, NativeWind).  
+**Solution:**  
+Created reusable style patterns, global themes, and component design systems.
+
+### **4. Routing & Navigation Challenges**
+
+Implementing both file-based routing (Next.js) and stack/tab navigation (Expo Router).  
+**Solution:**  
+Practiced component-based routing patterns and modularized navigation logic.
+
+### **5. Performance Optimization**
+
+Large components and heavy UI logic affected performance.  
+**Solution:**  
+Code splitting, memoization, lazy loading, and minimizing unnecessary re-renders.
+
+---
+
+## 🌟 Best Practices & Personal Takeaways
+
+### **Best Practices Learned**
+
+- **Atomic and component-driven design** for scalable UI development
+- **Consistent Git discipline** with feature branches and clear commit messages
+- **Responsive-first approach** ensuring accessibility and device compatibility
+- **Modular architecture** for reusability and reduced technical debt
+- **Strict typing with TypeScript** to catch bugs early
+- **Documentation-first mindset** with clear READMEs, API descriptions, and component guidelines
+
+### 🔑 **Personal Takeaways**
+
+- Frontend engineering is more than UI—it's about **creating smooth user experiences** backed by structure and performance.
+- **TypeScript and system design** dramatically improve code reliability and maintainability.
+- **Mobile and web development share patterns, but require platform awareness**.
+- Consistency beats intensity—steady daily practice builds mastery.
+- Understanding **backend concepts** enhances frontend integration and collaboration.
+- Every debugging issue, design challenge, or deployment failure builds real engineering confidence.
+
+---
+
+## ✅ Final Words
+
+The **ProDev Frontend Engineering Program** provided a deep, practical, and transformative journey into modern UI development. Through hands-on projects, real-world challenges, and exposure to advanced frontend tooling, I’ve built the skills and mindset to confidently contribute as a frontend or full-stack engineer.
+
+With a strong portfolio, solid engineering foundations, and cross-platform expertise, I’m ready to take the next step in delivering impactful, scalable, and user-centric digital experiences.
